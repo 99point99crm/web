@@ -3,6 +3,7 @@ layout: default
 title: Hide Access Tab On User Detail View
 keywords: suitecrm, suitecrm users, suitecrm customization, user access, crm, crm learning
 description: Suitecrm Customization - Hide OR Show Access Tab on User Detail View
+permalink: /hiding-user-access-tab
 ---
 # Customizing SuiteCRM to Hide the Access Tab in User Detail View
 
