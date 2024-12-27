@@ -5,7 +5,7 @@ body
 	font-family: "Segoe UI",Arial,Sans-Serif;
 	font-size:0.842em;
 	color:#666;
-	background-color:#592323;;
+	background-color:#fff;
 }
 a{color:#646464;text-decoration:none;}
 a:hover
@@ -18,7 +18,7 @@ strong
 {
 	margin:1px auto;
 	padding:0px;
-	width:70%;
+	width:78%;
 	background-color:#fffffa;
 	border-top:1px solid #676892;
 	border-bottom:1px solid #676892;
