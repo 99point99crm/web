@@ -1,6 +1,8 @@
 ---
 layout: default
 title: About Me
+description: About 99point99 CRM
+keywords: Programmer blog, Open-source enthusiast, SuiteCRM expert, vTiger CRM expert, CRM customization, CRM codebase understanding, Programming solutions, Open-source projects, Software development notebook, Coding issues and solutions, Practical programming tips, SuiteCRM architecture, vTiger CRM architecture, CRM troubleshooting tips, CRM error solutions, Beginner programming ideas, Programming blog, Customizing SuiteCRM, Customizing vTiger CRM, Learning CRM codebase
 ---
 
 # About Me
