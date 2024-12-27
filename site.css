@@ -5,7 +5,7 @@ body
 	font-family: "Segoe UI",Arial,Sans-Serif;
 	font-size:0.842em;
 	color:#666;
-	background-color:#f8f8f8;
+	background-color:#592323;;
 }
 a{color:#646464;text-decoration:none;}
 a:hover
@@ -18,7 +18,7 @@ strong
 {
 	margin:1px auto;
 	padding:0px;
-	width:80%;
+	width:70%;
 	background-color:#fffffa;
 	border-top:1px solid #676892;
 	border-bottom:1px solid #676892;
@@ -47,7 +47,7 @@ strong
 	color:#444;text-decoration:none;
 }
 #site_title{
-	font-size:2.5em;
+	font-size:3em;
 	color:#676892;
 }
 .box a:hover
@@ -86,7 +86,7 @@ height:auto;
 #content
 {
 	float:left;
-	width:59%;
+	width:54.5%;
 }
 #content_content
 {
