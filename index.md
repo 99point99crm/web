@@ -1,6 +1,6 @@
 ---
 layout: default
-title: CRM Notebook Home
+title: 99POINT99 CRM Notebook
 ---
 # Difference Between an Account and a Customer in CRM
 
