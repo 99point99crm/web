@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">  
+	<head>
+     <meta charset="utf-8" 
+          name="viewport" 
+          content="width=device-width, 
+                   initial-scale=1.0" />
+		 <meta name="keywords" content="{{ page.keywords }}">
+		<meta name="description" content="{{ page.description }}">
+        <title>{{ page.title }}</title>
+	<link href="/crmnotebook/site.css" rel="stylesheet"/>
+	</head>
+	<body>
+		<div id="wrapper">
+			<div id="header">
+				<div id="header_content">
+				<div id="site_title">CRM NOTEBOOK</div>
+				<div style="margin-top:10px;maring-right:10px;font-size:10px;">
+				<a href="index">HOME</a> | <a href="about">ABOUT</a> | <a href="#">CONTACT</a></div>
+				</div>
+				
+			</div>
+			<div id="middle">
+				<div id="content">
+					<div id="content_content">
+                        {{ content }}
+                        </div>
+					
+				</div>
+				<div id="side">
+					<div id="side_content">
+					<strong>Latest posts</strong>
+					<div class="box">
+						<a href="index">Understanding the Difference Between an Account and a Customer in CRM</a>
+					</div>
+					<div class="box">
+						<a href="hide_user_access_tab">Customizing SuiteCRM to Hide the Access Tab in User Detail View</a>
+					</div>
+					<div class="box">
+						<a href="#">Understand Targets and Convert Them To Leads</a>
+					</div>
+					<div class="box">
+						<a href="#">Difference between Quotes and Invoices</a>
+					</div>
+					<div class="box">
+						<a href="#">View more posts</a>
+					</div>
+					</div>
+				</div>
+			</div>
+			<div id="footer">
+				<div id="footer_content">Developed for learning CRM Concepts and Software
+				</div>
+			</div>
+		</div>
+	</body>
+</html>
