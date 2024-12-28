@@ -5,7 +5,8 @@ date: 2024-12-28
 categories: CRM Concepts
 ---
 # Difference Between an Account and a Customer in CRM
-published on {{ .date | date: "%d %b %Y" }}
+Published on 2024-12-28
+
 **Introduction**
 
 When working with CRM systems like SuiteCRM, it’s important to understand the terminology used within the platform. Two key terms that often cause confusion are “Account” and “Customer.” While they may seem similar, they serve different purposes within a CRM. In this blog post, we’ll break down the differences between an account and a customer and explain how each is used in a CRM context.
