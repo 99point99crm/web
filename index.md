@@ -1,6 +1,8 @@
 ---
 layout: default
 title: 99POINT99 CRM Notebook
+date: YYYY-MM-DD hh:mm:ss -0000
+categories: CRM Concepts
 ---
 # Difference Between an Account and a Customer in CRM
 
