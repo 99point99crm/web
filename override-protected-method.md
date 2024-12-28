@@ -13,11 +13,13 @@ It is possible to override a protected method in object-oriented programming (OO
 In OOP, protected methods are designed to be accessible within the class where they are declared and in any subclass that extends the parent class. This access control strikes a balance between full encapsulation (private) and open access (public).
 
 ***Purpose of protected***: It allows controlled access to methods for extending functionality in derived (child) classes while still hiding them from external code.
+
 ***Why overriding is allowed***: Since protected methods are specifically intended to be accessed in subclasses, overriding them gives child classes the ability to customize the behavior of inherited functionality.
 
 **Why would you override a protected method?**
 
 Overriding a protected method is useful when you need to extend or modify the behavior of a method from the parent class in the context of a subclass. Here are some reasons why you might do this:
+
 ***Specialization of behavior in child classes***
 When a subclass represents a more specific version of the parent class, it often needs to tweak or replace the inherited behavior to better align with its specialized functionality.
 
