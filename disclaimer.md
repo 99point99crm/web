@@ -1,4 +1,4 @@
-Disclaimer
+## Disclaimer ##
 
 Welcome to 99 Point 99 CRM! This blog is dedicated to sharing insights, tutorials, and knowledge about coding and technology. While we strive to provide accurate and up-to-date information, the content on this blog is for informational purposes only. Please read the following carefully to understand the limitations of liability regarding the use of this blog.
 
@@ -25,4 +25,4 @@ This disclaimer is subject to change without notice. We recommend revisiting thi
 
 If you have any questions or concerns, feel free to contact me.
 
-Thank you for visiting [Your Blog Name]!
+Thank you for visiting 99 POINT 99 CRM!
