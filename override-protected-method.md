@@ -3,6 +3,8 @@ layout: default
 title: Override Protected Method
 date: 2024-12-28
 categories: OOPS Concepts
+description: How to override a protected method in PHP
+keywords: Overriding protected methods in PHP, PHP method inheritance, PHP protected method example, PHP class method overriding, Access modifiers in PHP, How to override methods in PHP, PHP protected vs public methods, PHP object-oriented programming (OOP), Extending classes in PHP, PHP inheritance tutorial
 ---
 # Overriding A Protected Method In PHP
 Published on 2024-12-28
