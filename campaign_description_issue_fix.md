@@ -1,10 +1,10 @@
 ---
 layout: default
-title: About Me
+title: SuiteCRM Campaigns Module - Description In-Line Edit Issue
 description: About 99point99 CRM
 keywords: Suitecrm7, Suitecrm8, Suitecrm, Suitecrm campaign description inline edit, suitecrm campaign description not editable, suitecrm campaign module error
 ---
-# Fixing Common Issues in the Campaigns Module of SuiteCRM
+# Fixing Description Field In-line Edit Issue in the Campaigns Module of SuiteCRM
 
 When working with the Campaigns module in SuiteCRM, you may encounter some challenges while customizing or extending its functionality. In this post, I’ll walk you through two specific issues I resolved, along with the changes that helped me fix them. These solutions will save you time and effort if you’re tackling similar problems.
 
